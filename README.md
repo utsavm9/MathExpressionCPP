@@ -15,6 +15,11 @@ Then, move the files inside the `program` folder inside the `bin` folder located
 
 ## File Information
 * `MATH.CPP` contains the program
+* `Q.txt` contains sample questions
+* `RULEBOOK.TXT` contains the rules for arithmetic and algebraic simplification.
+* `BOOLRULE.TXT` contains the rules for boolean simplification.
+
+Instructions on operating the program and available within the program itself.
 
 ## Solution Implementation
 The algorithm implemented for expression re-writing is based on matching and replacing parts of expressions. Numerous functions use several algorithms to achieve their task and some of noteworthy techniques are presented as follows:
