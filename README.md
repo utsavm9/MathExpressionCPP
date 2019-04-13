@@ -4,6 +4,8 @@
 
 This program is a term rewriting program which repeatedly applies all the available rules to the expression being simplified. The rules are maintained in a rule  book, which can be edited by the user. The program also comes with the capabilities of allowing the user to add and delete rules. 
 
+A sample run of the program is presented here. The user just entered `d/dx(d/dx(x^3))` and the program showed the simplified result of ![equation](https://latex.codecogs.com/gif.latex?\frac{\mathrm{d}}{\mathrm{d}x}\frac{\mathrm{d}}{\mathrm{d}x}x^3)
+
 ![Sample image of the program](https://github.com/utsavm9/MathExpressionCPP/blob/master/sampleImg.png)
 
 ## Getting started 
